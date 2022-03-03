@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharukhk08
-- 👀 I’m interested in Front end development
+- 👀 I’m a Front end developer && React
 - 🌱 I’m currently learning Node.js for backend developement
 - 💞️ I’m looking to collaborate on fullstack developement project
 - 📫 How to reach me 
