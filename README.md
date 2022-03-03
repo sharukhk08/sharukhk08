@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-Linkedin - https://www.linkedin.com/in/sharukh08/
-Insta - https://www.instagram.com/sharukh_k08/
+-  Linkedin - https://www.linkedin.com/in/sharukh08/
+ 
+-  Insta - https://www.instagram.com/sharukh_k08/
 
 <!---
 sharukhk08/sharukhk08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
