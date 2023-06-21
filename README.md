@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharukhk08
 - 👀 I’m a Frontend developer specializing in React and NextJS
-- 🌱 I’m currently learning Node.js for backend developement
-- 💞️ I’m looking to collaborate on fullstack developement project
+- 🌱 I’m currently learning Node.js for backend development
+- 💞️ I’m looking to collaborate on a full-stack development project
 - 📫 How to reach me 
 -  Linkedin - https://www.linkedin.com/in/sharukh08/
  
